@@ -1,0 +1,11 @@
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
